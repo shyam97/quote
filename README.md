@@ -1,1 +1,1 @@
-Today's quote, delivered in TeX.
+Today's quote, delivered in TeX format.
